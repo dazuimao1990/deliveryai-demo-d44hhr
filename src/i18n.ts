@@ -44,6 +44,10 @@ const resources = {
         welcome_message: '欢迎进入概念演示',
         unknown_area: '',
       },
+      home: {
+        recommend_title: '今日推荐',
+        recommend_subtitle: '选桌后即刻开始点餐',
+      },
       bind: {
         title_l1: '热气升腾，',
         title_l2: '好味即刻开场。',
@@ -281,6 +285,10 @@ const resources = {
         preview_message: 'Preview mode · Table A08 bound',
         welcome_message: 'Welcome to the concept demo',
         unknown_area: '',
+      },
+      home: {
+        recommend_title: "Today's Picks",
+        recommend_subtitle: 'Select a table to start ordering',
       },
       bind: {
         title_l1: 'Steam rising,',
